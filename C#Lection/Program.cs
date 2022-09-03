@@ -30,7 +30,7 @@ else
 
 */
 
-
+/*
 int a = 1;
 int b = 2;
 int c = 6;
@@ -47,4 +47,9 @@ if (e > max) max = e;
 Console.WriteLine("max =");
 Console.WriteLine(max);
 
+*/
 
+
+
+
+Console.Clear()
